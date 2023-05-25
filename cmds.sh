@@ -53,3 +53,14 @@ sudo snap install mattermost-desktop
 sudo snap refresh
 sudo apt-get update
 sudo apt-get upgrade
+npm install --global coffeescript
+sudo apt install default-jre
+sudo apt install php
+sudo apt install golang-go
+sudo apt update
+sudo apt upgrade
+sudo apt install rustc
+sudo snap install code-insiders --classic
+sudo apt update
+sudo apt upgrade
+sudo snap refresh
