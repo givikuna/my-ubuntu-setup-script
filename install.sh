@@ -86,6 +86,7 @@ sudo flatpak install flathub fr.romainvigier.MetadataCleaner
 sudo flatpak install flathub com.github.unrud.VideoDownloader
 sudo flatpak install flathub org.qelectrotech.QElectroTech
 sudo apt-get install chrome-gnome-shell
+sudo apt install gnome-shell-extension-manager
 
 sudo apt install wget
 sudo apt install cloc
