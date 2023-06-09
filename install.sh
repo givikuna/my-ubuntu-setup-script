@@ -59,7 +59,7 @@ sudo snap install sublime-merge --classic
 sudo snap install ddgr
 sudo snap install simplenote
 sudo snap install code-insiders --classic
-sudo snap install aliasman
+# sudo snap install aliasman
 sudo apt install gnome-tweaks
 sudo snap install arduino
 sudo flatpak install flathub io.gitlab.adhami3310.Converter
@@ -87,6 +87,7 @@ sudo flatpak install flathub com.github.unrud.VideoDownloader
 sudo flatpak install flathub org.qelectrotech.QElectroTech
 sudo apt-get install chrome-gnome-shell
 sudo apt install gnome-shell-extension-manager
+sudo snap install notepadqq
 
 sudo apt install wget
 sudo apt install cloc
